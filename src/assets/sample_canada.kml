@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Sample Canada Fires</name>
+
+    <Placemark>
+      <name>Victoria, BC</name>
+      <description>Sample fire near Victoria</description>
+      <Point>
+        <coordinates>-123.3656,48.4284</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Vancouver, BC</name>
+      <description>Sample fire near Vancouver</description>
+      <Point>
+        <coordinates>-123.1207,49.2827</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Calgary, AB</name>
+      <description>Sample fire near Calgary</description>
+      <Point>
+        <coordinates>-114.0719,51.0447</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Toronto, ON</name>
+      <description>Sample fire near Toronto</description>
+      <Point>
+        <coordinates>-79.3832,43.6532</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Montreal, QC</name>
+      <description>Sample fire near Montreal</description>
+      <Point>
+        <coordinates>-73.5673,45.5017</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Halifax, NS</name>
+      <description>Sample fire near Halifax</description>
+      <Point>
+        <coordinates>-63.5752,44.6488</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>
