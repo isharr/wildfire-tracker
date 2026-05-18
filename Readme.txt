@@ -1,5 +1,10 @@
 # Wildfire Tracker
 
+## Preview
+
+![Wildfire Tracker Dashboard](./screenshots/Wildfire1.png)
+
+![Wildfire Tracker Map Features](./screenshots/Wildfire2.png)
 A React-based wildfire tracking web app that visualizes recent wildfire events using NASA EONET data. The app helps users explore wildfire activity on an interactive map, filter recent events, open locations in Google Maps, and upload their own CSV data to plot custom points.
 
 ---
