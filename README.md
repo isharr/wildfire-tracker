@@ -1,5 +1,11 @@
 # Wildfire Tracker
 
+## Preview
+
+![Wildfire Tracker Dashboard](./screenshots/Wildfire1.png)
+
+![Wildfire Tracker Map Features](./screenshots/Wildfire2.png)
+
 A React-based wildfire tracking web app that visualizes recent wildfire events using NASA EONET data. The app helps users explore wildfire activity on an interactive map, filter recent events, open locations in Google Maps, and upload their own CSV data to plot custom points.
 
 ---
@@ -8,6 +14,7 @@ A React-based wildfire tracking web app that visualizes recent wildfire events u
 
 I started this project in Summer 2025 as a small idea after hearing about how wildfire tracking systems were being used in real-world environmental and emergency response work. During that summer, wildfires were a major issue across many regions, and I became interested in how software could help people understand active wildfire locations through maps, data, and simple visual tools.
 
+At first, the project was a basic wildfire map using NASA’s EONET API. I pushed the first version to GitHub in January 2026. Later, I continued improving it by redesigning the user interface, adding better map interactions, improving the layout, and expanding the functionality. In May 2026, I pushed a more polished version with major UI and feature updates.
 At first, the project was a basic wildfire map using NASA’s EONET API. I pushed the first version to GitHub in January 2026. Later, I continued improving it by redesigning the user interface, adding better map interactions, improving the layout, and expanding the functionality. In May 2026, I pushed a more polished version with major UI and feature updates.
 
 This project helped me learn how to work with external APIs, geospatial data, interactive maps, CSV uploads, and real-world data visualization.
